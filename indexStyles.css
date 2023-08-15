@@ -152,9 +152,6 @@ img{
     }
     .card{
         width: 120%;
-        position: absolute;
-        right: 0;
-        left: 0;
     }
     .nav2{
         margin-top:-40px;
