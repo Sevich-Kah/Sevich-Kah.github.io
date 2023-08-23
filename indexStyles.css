@@ -145,6 +145,12 @@ img{
     padding-right: 10px;
 }
 @media (max-width:375px){
+    .body{
+        position: absolute;
+        top: 0;
+        left: 15px;
+        height: 100%;
+    }
     .nav1,.nav2{
         position: relative;
         width: 100%;
